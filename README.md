@@ -67,9 +67,19 @@
 ![Screenshot 2024-01-02 112019](https://github.com/vishnukayyala/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151489368/32f92cc2-eb9d-4949-9fda-cc9cc4a9e226)
 ![Screenshot 2024-01-02 112547](https://github.com/vishnukayyala/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151489368/52aca104-7a2a-4062-8141-c8eb76f7e2f5)
 
+## output
+## Support Removal Process:
+![Screenshot 2024-01-02 113047](https://github.com/vishnukayyala/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151489368/d7ea1d30-2721-4f66-a24f-f363f3c7b921)
 
-### Name:
-### Register Number:
+## UV Curing of 3D printed part:
+![Screenshot 2024-01-02 113111](https://github.com/vishnukayyala/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151489368/be19577e-7b46-47b7-b1da-d15377e62b6c)
+
+## Heat Treatment of 3D printed part
+![Screenshot 2024-01-02 113128](https://github.com/vishnukayyala/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151489368/8fb177f1-5160-4e0a-85a6-cc71a5e20d28)
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+
+### Name: VIHNU K.M
+### Register Number: 23000132
+
